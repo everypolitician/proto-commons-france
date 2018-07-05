@@ -1,3 +1,22 @@
 [
-
+  {
+    "comment": "Council of Ministers",
+    "executive_item_id": "Q2993836",
+    "positions": [
+      {
+        "comment": "Prime Minister of France",
+        "position_item_id": "Q1587677"
+      }
+    ]
+  },
+  {
+    "comment": "Paris City Council",
+    "executive_item_id": "Q13217279",
+    "positions": [
+      {
+        "comment": "président du conseil municipal de Paris",
+        "position_item_id": "Q55097294"
+      }
+    ]
+  }
 ]
