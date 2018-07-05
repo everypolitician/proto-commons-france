@@ -1,0 +1,8 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_fr", "name_en", "party", "party_name_fr", "party_name_en", "district", "district_name_fr", "district_name_en", "role", "role_fr", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_fr", "role_superclass_en", "org", "org_fr", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ ]
+  }
+}
