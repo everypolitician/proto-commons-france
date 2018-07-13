@@ -6679,6 +6679,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/scazebonne"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/scazebonne"
         }
       ]
     },
@@ -17412,6 +17416,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q30416664-adaeccc8-44bf-e366-63c7-d173b96d9a6e",
+      "person_id": "Q30416664",
+      "on_behalf_of_id": "Q30584989",
+      "organization_id": "Q193582",
+      "area_id": "Q2972979",
+      "start_date": "2018-04-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q30417849-d0002677-4acf-f8f7-35f8-beeaa3368c09",
       "person_id": "Q30417849",
       "on_behalf_of_id": "Q30584989",
@@ -19684,6 +19706,7 @@
       "organization_id": "Q193582",
       "area_id": "Q3479025",
       "start_date": "2017-06-21",
+      "end_date": "2018-07-06",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",

@@ -254,7 +254,7 @@ WARNING: the district dixième circonscription des Français établis hors de Fr
 WARNING: the district troisième circonscription de la Charente-Maritime (Q3540126) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district deuxième circonscription des Français établis hors de France (Q3025246) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district troisième circonscription de l'Aude (Q3540113) wasn't found in the boundary data for position député (Q3044918)
-WARNING: the district  (Q3540161) wasn't found in the boundary data for position député (Q3044918)
+WARNING: the district troisième circonscription des Hauts-de-Seine (Q3540161) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district neuvième circonscription du Bas-Rhin (Q3338778) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district huitième circonscription du Finistère (Q3142955) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district dixième circonscription de la Seine-Maritime (Q3032614) wasn't found in the boundary data for position député (Q3044918)
@@ -339,8 +339,8 @@ WARNING: the district neuvième circonscription du Val-d'Oise (Q3338781) wasn't 
 WARNING: the district deuxième circonscription de la Seine-Saint-Denis (Q3025229) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district neuvième circonscription de Seine-et-Marne (Q3338759) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district onzième circonscription du Nord (Q3352909) wasn't found in the boundary data for position député (Q3044918)
-WARNING: the district  (Q3540163) wasn't found in the boundary data for position député (Q3044918)
-WARNING: the district  (Q3402152) wasn't found in the boundary data for position député (Q3044918)
+WARNING: the district troisième circonscription des Yvelines (Q3540163) wasn't found in the boundary data for position député (Q3044918)
+WARNING: the district première circonscription du Nord (Q3402152) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district dixième circonscription de la Seine-Saint-Denis (Q3032617) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district sixième circonscription du Loiret (Q3485717) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district dixième circonscription de l'Essonne (Q3032611) wasn't found in the boundary data for position député (Q3044918)
@@ -363,7 +363,7 @@ WARNING: the district première circonscription du Rhône (Q3402151) wasn't foun
 WARNING: the district cinquième circonscription de la Loire (Q2972963) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district première circonscription des Hautes-Pyrénées (Q3402121) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district première circonscription de la Guadeloupe (Q3402068) wasn't found in the boundary data for position député (Q3044918)
-WARNING: the district  (Q3025214) wasn't found in the boundary data for position député (Q3044918)
+WARNING: the district deuxième circonscription de la Manche (Q3025214) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district quatrième circonscription de la Seine-Maritime (Q3413588) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district dixième circonscription du Val-d'Oise (Q3032625) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district neuvième circonscription de Paris (Q3338757) wasn't found in the boundary data for position député (Q3044918)
@@ -382,6 +382,7 @@ WARNING: the district première circonscription de la Haute-Garonne (Q3402073) w
 WARNING: the district deuxième circonscription du Haut-Rhin (Q3025263) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district treizième circonscription du Rhône (Q3538382) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district troisième circonscription du Doubs (Q3540169) wasn't found in the boundary data for position député (Q3044918)
+WARNING: the district cinquième circonscription des Français établis hors de France (Q2972979) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district cinquième circonscription des Français établis hors de France (Q2972979) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district première circonscription du Gers (Q3402140) wasn't found in the boundary data for position député (Q3044918)
 WARNING: the district troisième circonscription du Gard (Q3540170) wasn't found in the boundary data for position député (Q3044918)
@@ -666,10 +667,6 @@ WARNING: the district Var (Q12789) wasn't found in the boundary data for positio
 WARNING: the district Pas-de-Calais (Q12689) wasn't found in the boundary data for position sénateur de la Cinquième République (Q14828018)
 WARNING: the district Bas-Rhin (Q12717) wasn't found in the boundary data for position sénateur de la Cinquième République (Q14828018)
 WARNING: the district Rhône (Q46130) wasn't found in the boundary data for position sénateur de la Cinquième République (Q14828018)
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position [no item] not in boundary associated_wikidata_positions
