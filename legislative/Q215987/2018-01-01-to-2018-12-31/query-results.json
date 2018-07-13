@@ -107088,6 +107088,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55343699"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cathy Apourceau-Poly"
+      },
       "name_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
