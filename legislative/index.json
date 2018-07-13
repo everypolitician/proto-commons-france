@@ -110,28 +110,6 @@
     ]
   },
   {
-    "comment": "Regional Council of Languedoc-Roussillon",
-    "house_item_id": "Q2994248",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Picardy",
-    "house_item_id": "Q2994249",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "Regional Council of Provence-Alpes-Côte d'Azur",
     "house_item_id": "Q2994252",
     "position_item_id": null,
@@ -176,30 +154,8 @@
     ]
   },
   {
-    "comment": "Regional Council of Nord-Pas-de-Calais",
-    "house_item_id": "Q2994272",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "Regional Council of Centre-Val de Loire",
     "house_item_id": "Q647976",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Midi-Pyrénées",
-    "house_item_id": "Q693192",
     "position_item_id": null,
     "terms": [
       {
