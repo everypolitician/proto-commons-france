@@ -10,17 +10,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+        "value" : "http://www.wikidata.org/entity/Q3780304"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "councillor"
+        "value" : "member of the general council"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller municipal"
+        "value" : "conseiller général"
       },
       "role" : {
         "type" : "uri",
@@ -85,17 +85,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3780304"
+        "value" : "http://www.wikidata.org/entity/Q708492"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the general council"
+        "value" : "councillor"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller général"
+        "value" : "conseiller municipal"
       },
       "role" : {
         "type" : "uri",
@@ -160,17 +160,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+        "value" : "http://www.wikidata.org/entity/Q3780304"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "councillor"
+        "value" : "member of the general council"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller municipal"
+        "value" : "conseiller général"
       },
       "role" : {
         "type" : "uri",
@@ -230,17 +230,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3780304"
+        "value" : "http://www.wikidata.org/entity/Q708492"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the general council"
+        "value" : "councillor"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller général"
+        "value" : "conseiller municipal"
       },
       "role" : {
         "type" : "uri",
@@ -300,17 +300,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+        "value" : "http://www.wikidata.org/entity/Q3780304"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "councillor"
+        "value" : "member of the general council"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller municipal"
+        "value" : "conseiller général"
       },
       "role" : {
         "type" : "uri",
@@ -375,17 +375,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3780304"
+        "value" : "http://www.wikidata.org/entity/Q708492"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the general council"
+        "value" : "councillor"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller général"
+        "value" : "conseiller municipal"
       },
       "role" : {
         "type" : "uri",
@@ -450,17 +450,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+        "value" : "http://www.wikidata.org/entity/Q3780304"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "councillor"
+        "value" : "member of the general council"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller municipal"
+        "value" : "conseiller général"
       },
       "role" : {
         "type" : "uri",
@@ -520,17 +520,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3780304"
+        "value" : "http://www.wikidata.org/entity/Q708492"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the general council"
+        "value" : "councillor"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller général"
+        "value" : "conseiller municipal"
       },
       "role" : {
         "type" : "uri",
@@ -590,76 +590,6 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role_superclass_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller municipal"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q51236772"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Councillor of Paris"
-      },
-      "role_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseiller de Paris"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3439235"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Roger Madec"
-      },
-      "name_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Roger Madec"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q775994"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "council of Paris"
-      },
-      "org_fr" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "conseil de Paris"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q90"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "163"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3439235-711AB351-58A4-494D-A3FA-26F095E5AEC6"
-      },
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3780304"
       },
       "role_superclass_en" : {
@@ -726,7 +656,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3573907-d7a58bd9-4070-376a-6637-3ca660d05936"
+        "value" : "http://www.wikidata.org/entity/statement/Q3439235-711AB351-58A4-494D-A3FA-26F095E5AEC6"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -741,6 +671,76 @@
         "xml:lang" : "fr",
         "type" : "literal",
         "value" : "conseiller municipal"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51236772"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of Paris"
+      },
+      "role_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "conseiller de Paris"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3439235"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roger Madec"
+      },
+      "name_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Roger Madec"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q775994"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Paris"
+      },
+      "org_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "conseil de Paris"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q90"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "163"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3573907-d7a58bd9-4070-376a-6637-3ca660d05936"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3780304"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the general council"
+      },
+      "role_superclass_fr" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "conseiller général"
       },
       "role" : {
         "type" : "uri",
@@ -805,17 +805,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3780304"
+        "value" : "http://www.wikidata.org/entity/Q708492"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the general council"
+        "value" : "councillor"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller général"
+        "value" : "conseiller municipal"
       },
       "role" : {
         "type" : "uri",
@@ -880,17 +880,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
+        "value" : "http://www.wikidata.org/entity/Q3780304"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "councillor"
+        "value" : "member of the general council"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller municipal"
+        "value" : "conseiller général"
       },
       "role" : {
         "type" : "uri",
@@ -973,17 +973,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3780304"
+        "value" : "http://www.wikidata.org/entity/Q708492"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the general council"
+        "value" : "councillor"
       },
       "role_superclass_fr" : {
         "xml:lang" : "fr",
         "type" : "literal",
-        "value" : "conseiller général"
+        "value" : "conseiller municipal"
       },
       "role" : {
         "type" : "uri",
