@@ -112,10 +112,6 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/julien.bargeton.9"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/julien.bargeton.9"
         }
       ]
     }
@@ -149,10 +145,10 @@
       "person_id": "Q20857507",
       "organization_id": "Q775994",
       "start_date": "2008-03-19",
-      "role_superclass_code": "Q708492",
+      "role_superclass_code": "Q3780304",
       "role_superclass": {
-        "lang:fr": "conseiller municipal",
-        "lang:en": "councillor"
+        "lang:fr": "conseiller général",
+        "lang:en": "member of the general council"
       },
       "role_code": "Q51236772",
       "role": {
@@ -165,21 +161,6 @@
       "person_id": "Q20857507",
       "organization_id": "Q775994",
       "start_date": "2008-03-19",
-      "role_superclass_code": "Q3780304",
-      "role_superclass": {
-        "lang:fr": "conseiller général",
-        "lang:en": "member of the general council"
-      },
-      "role_code": "Q51236772",
-      "role": {
-        "lang:fr": "conseiller de Paris",
-        "lang:en": "Councillor of Paris"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3158369-bbb11f72-48ec-7c9f-8490-75b2e0df832a",
-      "person_id": "Q3158369",
-      "organization_id": "Q775994",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:fr": "conseiller municipal",
@@ -207,10 +188,9 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3165734-958da7ce-459b-71d2-e0a4-7e6bfd1842ad",
-      "person_id": "Q3165734",
+      "id": "http://www.wikidata.org/entity/statement/Q3158369-bbb11f72-48ec-7c9f-8490-75b2e0df832a",
+      "person_id": "Q3158369",
       "organization_id": "Q775994",
-      "start_date": "1989-03-24",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:fr": "conseiller municipal",
@@ -239,6 +219,37 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3165734-958da7ce-459b-71d2-e0a4-7e6bfd1842ad",
+      "person_id": "Q3165734",
+      "organization_id": "Q775994",
+      "start_date": "1989-03-24",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:fr": "conseiller municipal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q51236772",
+      "role": {
+        "lang:fr": "conseiller de Paris",
+        "lang:en": "Councillor of Paris"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q33215378-862a8a8d-4615-18e7-8339-ee7911119bba",
+      "person_id": "Q33215378",
+      "organization_id": "Q775994",
+      "role_superclass_code": "Q3780304",
+      "role_superclass": {
+        "lang:fr": "conseiller général",
+        "lang:en": "member of the general council"
+      },
+      "role_code": "Q51236772",
+      "role": {
+        "lang:fr": "conseiller de Paris",
+        "lang:en": "Councillor of Paris"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q33215378-862a8a8d-4615-18e7-8339-ee7911119bba",
       "person_id": "Q33215378",
       "organization_id": "Q775994",
@@ -254,8 +265,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q33215378-862a8a8d-4615-18e7-8339-ee7911119bba",
-      "person_id": "Q33215378",
+      "id": "http://www.wikidata.org/entity/statement/Q3439235-711AB351-58A4-494D-A3FA-26F095E5AEC6",
+      "person_id": "Q3439235",
       "organization_id": "Q775994",
       "role_superclass_code": "Q3780304",
       "role_superclass": {
@@ -284,9 +295,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3439235-711AB351-58A4-494D-A3FA-26F095E5AEC6",
-      "person_id": "Q3439235",
+      "id": "http://www.wikidata.org/entity/statement/Q3573907-d7a58bd9-4070-376a-6637-3ca660d05936",
+      "person_id": "Q3573907",
       "organization_id": "Q775994",
+      "start_date": "2001-03-18",
       "role_superclass_code": "Q3780304",
       "role_superclass": {
         "lang:fr": "conseiller général",
@@ -315,10 +327,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3573907-d7a58bd9-4070-376a-6637-3ca660d05936",
-      "person_id": "Q3573907",
+      "id": "http://www.wikidata.org/entity/statement/Q40895865-2e0e197c-4b44-5e2d-fd29-9b816752ac26",
+      "person_id": "Q40895865",
       "organization_id": "Q775994",
-      "start_date": "2001-03-18",
+      "area_id": "Q210720",
+      "start_date": "2008-03-21",
       "role_superclass_code": "Q3780304",
       "role_superclass": {
         "lang:fr": "conseiller général",
@@ -340,23 +353,6 @@
       "role_superclass": {
         "lang:fr": "conseiller municipal",
         "lang:en": "councillor"
-      },
-      "role_code": "Q51236772",
-      "role": {
-        "lang:fr": "conseiller de Paris",
-        "lang:en": "Councillor of Paris"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q40895865-2e0e197c-4b44-5e2d-fd29-9b816752ac26",
-      "person_id": "Q40895865",
-      "organization_id": "Q775994",
-      "area_id": "Q210720",
-      "start_date": "2008-03-21",
-      "role_superclass_code": "Q3780304",
-      "role_superclass": {
-        "lang:fr": "conseiller général",
-        "lang:en": "member of the general council"
       },
       "role_code": "Q51236772",
       "role": {
