@@ -16,15 +16,11 @@ WHERE {
     (wd:Q2994006 rdf:nil)
     (wd:Q2994234 rdf:nil)
     (wd:Q2994247 rdf:nil)
-    (wd:Q2994248 rdf:nil)
-    (wd:Q2994249 rdf:nil)
     (wd:Q2994252 rdf:nil)
     (wd:Q2994255 rdf:nil)
     (wd:Q2994260 rdf:nil)
     (wd:Q2994263 rdf:nil)
-    (wd:Q2994272 rdf:nil)
     (wd:Q647976 rdf:nil)
-    (wd:Q693192 rdf:nil)
     (wd:Q775994 wd:Q51236772)
   }
   ?house (p:P361/ps:P361)* ?legislature .
