@@ -2,216 +2,23 @@
   {
     "comment": "French National Assembly",
     "house_item_id": "Q193582",
+    "seat_count": "577",
+    "area_id": "Q142",
     "position_item_id": "Q3044918",
     "terms": [
       {
         "comment": "15th legislature of the Fifth French Republic",
-        "term_item_id": "Q24939798"
+        "term_item_id": "Q24939798",
+        "start_date": "2017-06-21"
       }
     ]
   },
   {
     "comment": "Senate",
     "house_item_id": "Q215987",
+    "seat_count": "348",
+    "area_id": "Q142",
     "position_item_id": "Q14828018",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Auvergne-Rhône-Alpes",
-    "house_item_id": "Q19606559",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "conseil régional des Hauts-de-France",
-    "house_item_id": "Q20723546",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Brittany",
-    "house_item_id": "Q2301457",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "departmental council of La Réunion",
-    "house_item_id": "Q23782071",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Corsican Assembly",
-    "house_item_id": "Q2564988",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "general council of Guadeloupe",
-    "house_item_id": "Q2994006",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Île-de-France",
-    "house_item_id": "Q2994234",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Réunion",
-    "house_item_id": "Q2994247",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Languedoc-Roussillon",
-    "house_item_id": "Q2994248",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Picardy",
-    "house_item_id": "Q2994249",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Provence-Alpes-Côte d'Azur",
-    "house_item_id": "Q2994252",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Guadeloupe",
-    "house_item_id": "Q2994255",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "regional council of Pays de la Loire",
-    "house_item_id": "Q2994260",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Martinique",
-    "house_item_id": "Q2994263",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Nord-Pas-de-Calais",
-    "house_item_id": "Q2994272",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Lorraine",
-    "house_item_id": "Q589022",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Centre-Val de Loire",
-    "house_item_id": "Q647976",
-    "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Midi-Pyrénées",
-    "house_item_id": "Q693192",
-    "position_item_id": null,
     "terms": [
       {
         "start_date": "2018-01-01",
@@ -222,6 +29,8 @@
   {
     "comment": "council of Paris",
     "house_item_id": "Q775994",
+    "seat_count": "163",
+    "area_id": "Q90",
     "position_item_id": "Q51236772",
     "terms": [
       {

@@ -1,0 +1,27 @@
+WARNING: no seat count found for the legislature Regional Council of Auvergne-Rhône-Alpes
+WARNING: no position found for the legislature Regional Council of Auvergne-Rhône-Alpes
+WARNING: no seat count found for the legislature conseil régional des Hauts-de-France
+WARNING: no position found for the legislature conseil régional des Hauts-de-France
+WARNING: no seat count found for the legislature Regional Council of Brittany
+WARNING: no position found for the legislature Regional Council of Brittany
+WARNING: no seat count found for the legislature departmental council of La Réunion
+WARNING: no position found for the legislature departmental council of La Réunion
+WARNING: no seat count found for the legislature Corsican Assembly
+WARNING: no position found for the legislature Corsican Assembly
+WARNING: no seat count found for the legislature general council of Guadeloupe
+WARNING: no position found for the legislature general council of Guadeloupe
+WARNING: no seat count found for the legislature Regional Council of Île-de-France
+WARNING: no position found for the legislature Regional Council of Île-de-France
+WARNING: no seat count found for the legislature Regional Council of Réunion
+WARNING: no position found for the legislature Regional Council of Réunion
+WARNING: no seat count found for the legislature Regional Council of Provence-Alpes-Côte d'Azur
+WARNING: no position found for the legislature Regional Council of Provence-Alpes-Côte d'Azur
+WARNING: no seat count found for the legislature Regional Council of Guadeloupe
+WARNING: no position found for the legislature Regional Council of Guadeloupe
+WARNING: no position found for the legislature regional council of Pays de la Loire
+WARNING: no seat count found for the legislature Regional Council of Martinique
+WARNING: no position found for the legislature Regional Council of Martinique
+WARNING: no seat count found for the legislature Regional Council of Lorraine
+WARNING: no position found for the legislature Regional Council of Lorraine
+WARNING: no seat count found for the legislature Regional Council of Centre-Val de Loire
+WARNING: no position found for the legislature Regional Council of Centre-Val de Loire
