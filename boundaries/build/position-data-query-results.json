@@ -1,0 +1,288 @@
+{
+  "head": {
+    "vars": [
+      "position",
+      "position_name_fr",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_fr",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_fr",
+      "position_superclass_en",
+      "body",
+      "body_fr",
+      "body_en"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14828018"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sénateur"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Senate of France"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q142"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "France"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "France"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24931583"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sénateur français"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "French senator"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q215987"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sénat"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3044918"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the French National Assembly"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q142"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "France"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "France"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "député"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193582"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Assemblée nationale"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "French National Assembly"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51236772"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller de Paris"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Councillor of Paris"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Paris"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paris"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller municipal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q775994"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseil de Paris"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "council of Paris"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51236772"
+        },
+        "position_name_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller de Paris"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Councillor of Paris"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90"
+        },
+        "admin_area_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Paris"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paris"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3780304"
+        },
+        "position_superclass_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseiller général"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the general council"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q775994"
+        },
+        "body_fr": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "conseil de Paris"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "council of Paris"
+        }
+      }
+    ]
+  }
+}
