@@ -6,7 +6,7 @@ SELECT DISTINCT ?executive ?executiveLabel ?adminArea ?adminAreaLabel ?adminArea
   {
     VALUES (?adminArea ?primarySort ?adminAreaType) { (wd:Q142 1 wd:Q6256) }
   } UNION {
-    # Find FLACSen of this country
+    # Find regional admin areas of this country (generally FLACSen)
     ?adminArea wdt:P17 wd:Q142 ;
           wdt:P31/wdt:P279* wd:Q10864048
     VALUES (?primarySort ?adminAreaType) { (2 wd:Q10864048) }
@@ -22,6 +22,9 @@ SELECT DISTINCT ?executive ?executiveLabel ?adminArea ?adminAreaLabel ?adminArea
     VALUES (?adminArea ?primarySort ?adminAreaType) {
     }
   }
+
+  # Remove admin areas that have ended
+  FILTER NOT EXISTS { ?adminArea wdt:P582|wdt:P576 ?adminAreaEnd . FILTER (?adminAreaEnd < NOW()) }
 } GROUP BY ?adminArea ORDER BY ?primarySort ?adminArea
 
   }
@@ -45,6 +48,8 @@ SELECT DISTINCT ?executive ?executiveLabel ?adminArea ?adminAreaLabel ?adminArea
       FILTER NOT EXISTS { ?executive wdt:P31/wdt:P279* wd:Q6528244 }
       # Exclude executives which aren't direct parents of the position
       FILTER NOT EXISTS { ?position wdt:P361 ?other . ?other wdt:P361+ ?executive }
+      # Filter positions that have been dissolved
+      FILTER NOT EXISTS { ?position wdt:P576 ?positionEnd . FILTER (?positionEnd < NOW()) }
     }
   }
 
