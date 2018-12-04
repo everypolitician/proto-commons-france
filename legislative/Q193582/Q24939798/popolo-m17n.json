@@ -142,11 +142,11 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/patrice.verchere"
+          "url": "https://www.facebook.com/Patrice-Verch%C3%A8re-524318061291319"
         },
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Patrice-Verch%C3%A8re-524318061291319"
+          "url": "https://www.facebook.com/patrice.verchere"
         }
       ]
     },
@@ -411,6 +411,10 @@
         }
       ],
       "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/joel.aviragnet"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/joel.aviragnet"
@@ -1394,10 +1398,7 @@
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/romain.grau.7"
-        }
+
       ]
     },
     {
@@ -1739,11 +1740,11 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/LMaillartMehaignerie"
+          "url": "https://www.facebook.com/100010574978938"
         },
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/100010574978938"
+          "url": "https://www.facebook.com/LMaillartMehaignerie"
         }
       ]
     },
@@ -1800,11 +1801,11 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/nathbassire"
+          "url": "https://www.facebook.com/nathalie.bassire"
         },
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/nathalie.bassire"
+          "url": "https://www.facebook.com/nathbassire"
         }
       ]
     },
@@ -2451,6 +2452,14 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/Ramlati-Ali-101248723811509"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/drramlatiali"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Ramlati-Ali-101248723811509"
         }
       ]
     },
@@ -2829,7 +2838,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/marilossian2017/about"
+          "url": "https://www.facebook.com/marilossian2017"
         }
       ]
     },
@@ -4906,7 +4915,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/FadilaKhattabi2017/about"
+          "url": "https://www.facebook.com/FadilaKhattabi2017"
         }
       ]
     },
@@ -6206,8 +6215,8 @@
     },
     {
       "name": {
-        "lang:fr": "Nicole Dubre-Chirat",
-        "lang:en": "Nicole Dubre-Chirat"
+        "lang:fr": "Nicole Dubré-Chirat",
+        "lang:en": "Nicole Dubré-Chirat"
       },
       "id": "Q30389178",
       "identifiers": [
@@ -6676,6 +6685,10 @@
         }
       ],
       "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/scazebonne"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/scazebonne"
@@ -8522,6 +8535,38 @@
     },
     {
       "name": {
+        "lang:fr": "Jean-Louis Thiériot",
+        "lang:en": "Jean-Louis Thiériot"
+      },
+      "id": "Q3166993",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3166993"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:fr": "Jean-Luc Poudroux",
+        "lang:en": "Jean-Luc Poudroux"
+      },
+      "id": "Q3167235",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3167235"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:fr": "Jean-Luc Reitzer",
         "lang:en": "Jean-Luc Reitzer"
       },
@@ -8727,11 +8772,11 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/jm.pahun"
+          "url": "https://www.facebook.com/jimmypahun2017"
         },
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/jimmypahun2017"
+          "url": "https://www.facebook.com/jm.pahun"
         }
       ]
     },
@@ -9345,11 +9390,11 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/philippedunoyer2017"
+          "url": "https://www.facebook.com/philippe.dunoyer.5"
         },
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/philippe.dunoyer.5"
+          "url": "https://www.facebook.com/philippedunoyer2017"
         }
       ]
     },
@@ -9406,11 +9451,11 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/vigierphilippe"
+          "url": "https://www.facebook.com/Philippe.Vigier.28"
         },
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Philippe.Vigier.28"
+          "url": "https://www.facebook.com/vigierphilippe"
         }
       ]
     },
@@ -9557,6 +9602,22 @@
     },
     {
       "name": {
+        "lang:fr": "Sylvie Tolmont",
+        "lang:en": "Sylvie Tolmont"
+      },
+      "id": "Q3507399",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3507399"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:fr": "Sébastien Huyghe",
         "lang:en": "Sébastien Huyghe"
       },
@@ -9631,11 +9692,11 @@
         },
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/valerie.lacroute.7"
+          "url": "https://www.facebook.com/Val%C3%A9rie-Lacroute-475468509260044"
         },
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Val%C3%A9rie-Lacroute-475468509260044"
+          "url": "https://www.facebook.com/valerie.lacroute.7"
         }
       ]
     },
@@ -10062,6 +10123,22 @@
     },
     {
       "name": {
+        "lang:fr": "Mounir Belhamiti",
+        "lang:en": "Mounir Belhamiti"
+      },
+      "id": "Q56464398",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56464398"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:fr": "Jean-Luc Mélenchon",
         "lang:en": "Jean-Luc Mélenchon"
       },
@@ -10365,20 +10442,6 @@
     },
     {
       "name": {
-        "lang:fr": "Non-inscrit",
-        "lang:en": "independent"
-      },
-      "id": "Q2415493",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2415493"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:fr": "groupe Gauche démocrate et républicaine",
         "lang:en": "Democratic and Republican Left"
       },
@@ -10435,7 +10498,7 @@
     },
     {
       "name": {
-        "lang:fr": "groupe Mouvement démocrate",
+        "lang:fr": "groupe Mouvement démocrate et apparentés",
         "lang:en": "Democratic Movement group"
       },
       "id": "Q30596612",
@@ -10473,6 +10536,20 @@
           "identifier": "Q46615193"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:fr": "groupe Libertés et Territoires",
+        "lang:en": "Libertés and Territories Group"
+      },
+      "id": "Q57540493",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57540493"
+        }
+      ]
     }
   ],
   "areas": [
@@ -10486,6 +10563,7 @@
       "organization_id": "Q193582",
       "area_id": "Q3402045",
       "start_date": "2017-06-21",
+      "end_date": "2018-10-03",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -10523,6 +10601,7 @@
       "organization_id": "Q193582",
       "area_id": "Q3402081",
       "start_date": "2017-06-21",
+      "end_date": "2018-10-05",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -10715,7 +10794,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1450831-8e328790-4988-02c9-523d-df57f9f38bc5",
       "person_id": "Q1450831",
-      "on_behalf_of_id": "Q30584989",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3032621",
       "start_date": "2017-06-21",
@@ -10876,6 +10955,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q17350680-c3592bae-4e2b-b9d8-279b-1c4a369fe51b",
+      "person_id": "Q17350680",
+      "on_behalf_of_id": "Q46615193",
+      "organization_id": "Q193582",
+      "area_id": "Q3142938",
+      "start_date": "2018-03-19",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q17350680-e0de19f1-4bd4-3ef2-cfb1-40102cecdd73",
       "person_id": "Q17350680",
       "on_behalf_of_id": "Q46615193",
@@ -10985,7 +11082,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1967590-85125ebb-402b-0e62-45ee-0854c03359f9",
       "person_id": "Q1967590",
-      "on_behalf_of_id": "Q30584989",
+      "on_behalf_of_id": "Q30466735",
       "organization_id": "Q193582",
       "area_id": "Q3402139",
       "start_date": "2017-06-21",
@@ -11545,7 +11642,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2899644-0fd06585-4def-74be-1a99-9d8adc75f137",
       "person_id": "Q2899644",
-      "on_behalf_of_id": "Q30466735",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3402090",
       "start_date": "2017-06-21",
@@ -11744,7 +11841,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2960570-859c561b-4937-e5ef-e477-b7a53b44046c",
       "person_id": "Q2960570",
-      "on_behalf_of_id": "Q30466735",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q2972966",
       "start_date": "2017-06-21",
@@ -12986,6 +13083,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q30338888-48a6c2a9-43e3-ac68-166d-2266fc7048e9",
+      "person_id": "Q30338888",
+      "on_behalf_of_id": "Q30584989",
+      "organization_id": "Q193582",
+      "area_id": "Q3402002",
+      "start_date": "2018-03-26",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q30339116-7F355B3A-BE29-4F35-8FD5-20C43A331078",
       "person_id": "Q30339116",
       "on_behalf_of_id": "Q30584989",
@@ -13672,6 +13787,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q30339348-4FED029E-B744-4B3D-8ECB-A80E141BB299",
       "person_id": "Q30339348",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3025201",
       "start_date": "2017-06-21",
@@ -14428,6 +14544,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q30342903-F2AFA7B1-BF1F-48CF-BF1B-BCE378168CC9",
       "person_id": "Q30342903",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q2394708",
       "start_date": "2017-06-21",
@@ -14517,6 +14634,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q30342982-A21DA560-9952-4425-B607-CCDFAA363B2C",
       "person_id": "Q30342982",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3025190",
       "start_date": "2017-06-21",
@@ -17412,6 +17530,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q30416664-adaeccc8-44bf-e366-63c7-d173b96d9a6e",
+      "person_id": "Q30416664",
+      "on_behalf_of_id": "Q30584989",
+      "organization_id": "Q193582",
+      "area_id": "Q2972979",
+      "start_date": "2018-04-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q30417849-d0002677-4acf-f8f7-35f8-beeaa3368c09",
       "person_id": "Q30417849",
       "on_behalf_of_id": "Q30584989",
@@ -18332,6 +18468,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q30512286-4e5106c3-4de1-ec7b-c3cf-c1750f745b03",
       "person_id": "Q30512286",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3338777",
       "start_date": "2017-06-21",
@@ -18817,7 +18954,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3085621-9f3d0de9-49ac-5bc7-e9e5-86b6a7cad292",
       "person_id": "Q3085621",
-      "on_behalf_of_id": "Q46615193",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3142960",
       "start_date": "2017-06-21",
@@ -19338,6 +19475,42 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3166993-44e14d21-4588-96ba-851a-c2b9ed517378",
+      "person_id": "Q3166993",
+      "on_behalf_of_id": "Q36435376",
+      "organization_id": "Q193582",
+      "area_id": "Q3540105",
+      "start_date": "2018-07-16",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3167235-6a3cb29a-4f09-f65a-4a59-f28bb73d8633",
+      "person_id": "Q3167235",
+      "on_behalf_of_id": "Q36435376",
+      "organization_id": "Q193582",
+      "area_id": "Q3479025",
+      "start_date": "2018-10-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3167246-7c359ae2-4e6d-4e43-9bcd-19b316c6323f",
       "person_id": "Q3167246",
       "on_behalf_of_id": "Q36435376",
@@ -19376,7 +19549,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3167990-662e6755-41e6-e566-3e3e-e42e41eb8bff",
       "person_id": "Q3167990",
-      "on_behalf_of_id": "Q30584989",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q731672",
       "start_date": "2017-06-21",
@@ -19435,6 +19608,24 @@
       "area_id": "Q3413613",
       "start_date": "2017-06-21",
       "end_date": "2017-12-18",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3169226-52355424-4c64-8152-a7d2-e68db281593a",
+      "person_id": "Q3169226",
+      "on_behalf_of_id": "Q36435376",
+      "organization_id": "Q193582",
+      "area_id": "Q3413613",
+      "start_date": "2018-03-26",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -19520,6 +19711,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3175899-a0f8635d-47b1-92bc-07cd-6fe85d452b9d",
       "person_id": "Q3175899",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3025243",
       "start_date": "2017-06-21",
@@ -19684,6 +19876,7 @@
       "organization_id": "Q193582",
       "area_id": "Q3479025",
       "start_date": "2017-06-21",
+      "end_date": "2018-07-06",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -20022,7 +20215,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3351009-e1031a5f-45d7-45dc-bb71-888bf06ce35c",
       "person_id": "Q3351009",
-      "on_behalf_of_id": "Q2415493",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3402063",
       "start_date": "2017-06-21",
@@ -20112,7 +20305,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3371854-24650249-4b85-b1fa-1e0f-14a971462b3a",
       "person_id": "Q3371854",
-      "on_behalf_of_id": "Q30584989",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3413615",
       "start_date": "2017-06-21",
@@ -20202,7 +20395,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3380857-68f0fc89-4ee8-1dbf-5832-22255239f9ff",
       "person_id": "Q3380857",
-      "on_behalf_of_id": "Q30466735",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3413536",
       "start_date": "2017-06-21",
@@ -20333,6 +20526,24 @@
       "area_id": "Q3540136",
       "start_date": "2017-06-21",
       "end_date": "2017-07-21",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3507399-0847f0fa-4170-0978-7b64-bb555a8d9c82",
+      "person_id": "Q3507399",
+      "on_behalf_of_id": "Q46615193",
+      "organization_id": "Q193582",
+      "area_id": "Q3413586",
+      "start_date": "2018-07-12",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -20509,7 +20720,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3571749-c8d96ad7-4c88-c7d7-9224-8ea119961609",
       "person_id": "Q3571749",
-      "on_behalf_of_id": "Q30466735",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3540140",
       "start_date": "2017-06-21",
@@ -20724,6 +20935,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q467943-21794885-4d60-b6c7-2366-ff0574eca5d3",
       "person_id": "Q467943",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q3025158",
       "start_date": "2017-06-21",
@@ -20813,6 +21025,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q54413736-d2728a8e-41cd-eec7-afb7-5bd7bcc926a5",
       "person_id": "Q54413736",
+      "on_behalf_of_id": "Q57540493",
       "organization_id": "Q193582",
       "area_id": "Q2973883",
       "start_date": "2018-04-16",
@@ -20834,6 +21047,24 @@
       "organization_id": "Q193582",
       "area_id": "Q3025217",
       "start_date": "2018-04-24",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56464398-2597f3a0-4e3d-dcf7-b949-19fbed59d225",
+      "person_id": "Q56464398",
+      "on_behalf_of_id": "Q30584989",
+      "organization_id": "Q193582",
+      "area_id": "Q3402081",
+      "start_date": "2018-10-05",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -20906,6 +21137,7 @@
       "organization_id": "Q193582",
       "area_id": "Q3540105",
       "start_date": "2017-06-21",
+      "end_date": "2018-07-15",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -21068,6 +21300,7 @@
       "organization_id": "Q193582",
       "area_id": "Q3413586",
       "start_date": "2017-06-21",
+      "end_date": "2018-07-11",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",

@@ -1,14 +1,71 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:fr": "Pierre Taittinger",
+        "lang:en": "Pierre Taittinger"
+      },
+      "id": "Q3387066",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3387066"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:fr": "conseil municipal de Paris",
+        "lang:en": "Paris City Council"
+      },
+      "id": "Q13217279",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13217279"
+        }
+      ],
+      "area_id": "Q90"
+    },
+    {
+      "name": {
+        "lang:fr": "Ligue des patriotes",
+        "lang:en": "Ligue des Patriotes"
+      },
+      "id": "Q846469",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q846469"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3387066-c93fd428-4759-1072-31dc-c60256ee1a0b",
+      "person_id": "Q3387066",
+      "on_behalf_of_id": "Q846469",
+      "organization_id": "Q13217279",
+      "area_id": "Q90",
+      "role_superclass_code": "Q55097294",
+      "role_superclass": {
+        "lang:fr": "président du conseil municipal de Paris"
+      },
+      "role_code": "Q55097294",
+      "role": {
+        "lang:fr": "président du conseil municipal de Paris"
+      }
+    }
   ]
 }
