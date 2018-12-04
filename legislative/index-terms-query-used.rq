@@ -23,6 +23,7 @@ WHERE {
     (wd:Q2994260 rdf:nil)
     (wd:Q2994263 rdf:nil)
     (wd:Q2994272 rdf:nil)
+    (wd:Q589022 rdf:nil)
     (wd:Q647976 rdf:nil)
     (wd:Q693192 rdf:nil)
     (wd:Q775994 wd:Q51236772)

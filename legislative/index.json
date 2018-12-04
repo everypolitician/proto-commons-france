@@ -187,6 +187,17 @@
     ]
   },
   {
+    "comment": "Regional Council of Lorraine",
+    "house_item_id": "Q589022",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
     "comment": "Regional Council of Centre-Val de Loire",
     "house_item_id": "Q647976",
     "position_item_id": null,
