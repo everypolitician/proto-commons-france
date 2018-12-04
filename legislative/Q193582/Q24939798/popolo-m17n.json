@@ -37,6 +37,22 @@
     },
     {
       "name": {
+        "lang:fr": "Désiré Barodet",
+        "lang:en": "Claude-Désiré Barodet"
+      },
+      "id": "Q1096310",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1096310"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:fr": "François de Rugy",
         "lang:en": "François de Rugy"
       },
@@ -279,6 +295,22 @@
     },
     {
       "name": {
+        "lang:fr": "Joachim Murat",
+        "lang:en": "Joachim Murat"
+      },
+      "id": "Q151173",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q151173"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:fr": "Charles de La Verpillière",
         "lang:en": "Charles de la Verpillière"
       },
@@ -287,6 +319,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1534217"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:fr": "Louis Lefoullon",
+        "lang:en": "Louis Lefoullon"
+      },
+      "id": "Q16025977",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16025977"
         }
       ],
       "links": [
@@ -411,10 +459,6 @@
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/joel.aviragnet"
-        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/joel.aviragnet"
@@ -652,6 +696,22 @@
     },
     {
       "name": {
+        "lang:fr": "Honoré-Gabriel Riqueti de Mirabeau",
+        "lang:en": "Honoré Gabriel Riqueti, comte de Mirabeau"
+      },
+      "id": "Q218747",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q218747"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:fr": "Michèle Tabarot",
         "lang:en": "Michèle Tabarot"
       },
@@ -746,6 +806,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q2386047"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:fr": "Jean-Baptiste Joseph Lucas",
+        "lang:en": "Jean-Baptiste Joseph Lucas"
+      },
+      "id": "Q23901152",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23901152"
         }
       ],
       "links": [
@@ -980,6 +1056,22 @@
           "note": "facebook",
           "url": "https://www.facebook.com/florentboudie33"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:fr": "Armand Chouffet",
+        "lang:en": "Armand Chouffet"
+      },
+      "id": "Q2861802",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2861802"
+        }
+      ],
+      "links": [
+
       ]
     },
     {
@@ -2452,14 +2544,6 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/Ramlati-Ali-101248723811509"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/drramlatiali"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/Ramlati-Ali-101248723811509"
         }
       ]
     },
@@ -3552,10 +3636,6 @@
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/Ian-Boucard-L%C3%A9gislatives-2017-1767760516872135"
-        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/Ian-Boucard-L%C3%A9gislatives-2017-1767760516872135"
@@ -6685,10 +6765,6 @@
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/scazebonne"
-        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/scazebonne"
@@ -10158,6 +10234,38 @@
     },
     {
       "name": {
+        "lang:fr": "Jules Senard",
+        "lang:en": "Jules Senard"
+      },
+      "id": "Q587009",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q587009"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:fr": "Francis Chouat",
+        "lang:en": "Francis Chouat"
+      },
+      "id": "Q58869106",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58869106"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:fr": "Jean-Paul Lecoq",
         "lang:en": "Jean-Paul Lecoq"
       },
@@ -10344,6 +10452,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q924976"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:fr": "Jean-Baptiste Sylvère Gaye de Martignac",
+        "lang:en": "Jean Baptiste Gay, vicomte de Martignac"
+      },
+      "id": "Q958953",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q958953"
         }
       ],
       "links": [
@@ -10595,6 +10719,40 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1096310-3B0E19AD-31E3-45E1-98EF-A2E54E813765",
+      "person_id": "Q1096310",
+      "organization_id": "Q193582",
+      "area_id": "Q1142326",
+      "start_date": "1873-04-27",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q117340-3cfeb94c-4ace-3508-b244-2714db95a595",
+      "person_id": "Q117340",
+      "organization_id": "Q193582",
+      "start_date": "2017-06-27",
+      "end_date": "2018-09-04",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q117340-bfa4b675-4f52-136a-e89e-00e096b7248e",
       "person_id": "Q117340",
       "on_behalf_of_id": "Q30584989",
@@ -10828,12 +10986,44 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q151173-801FE281-9069-4869-9EED-917EE59C636D",
+      "person_id": "Q151173",
+      "organization_id": "Q193582",
+      "start_date": "1800-01-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1534217-e3dd80f7-4d68-fe81-c439-e27efad8bbb2",
       "person_id": "Q1534217",
       "on_behalf_of_id": "Q36435376",
       "organization_id": "Q193582",
       "area_id": "Q3025173",
       "start_date": "2017-06-21",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16025977-5E0BF5C7-9AF8-4FEF-A61D-9D956392E999",
+      "person_id": "Q16025977",
+      "organization_id": "Q193582",
+      "start_date": "1893-01-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -11224,6 +11414,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q218747-4CDE0DF8-D082-4C08-A864-D989A921B1E2",
+      "person_id": "Q218747",
+      "organization_id": "Q193582",
+      "start_date": "1789-04-06",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2254052-c77b5a34-4346-8699-6d19-dfa692978fed",
       "person_id": "Q2254052",
       "on_behalf_of_id": "Q36435376",
@@ -11320,6 +11526,23 @@
       "organization_id": "Q193582",
       "area_id": "Q2972962",
       "start_date": "2017-06-21",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23901152-6E6144BB-0A26-44A2-A382-ADAE816E53EE",
+      "person_id": "Q23901152",
+      "organization_id": "Q193582",
+      "area_id": "Q3113",
+      "start_date": "1789-01-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -11574,6 +11797,22 @@
       "organization_id": "Q193582",
       "area_id": "Q3032620",
       "start_date": "2017-06-21",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2861802-24CF2E77-07ED-4CDF-A093-CEA5A1844B38",
+      "person_id": "Q2861802",
+      "organization_id": "Q193582",
+      "start_date": "1928-01-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",
@@ -20429,6 +20668,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3430759-e787fe1c-4828-d2f2-e7c7-27cf84a6ae06",
+      "person_id": "Q3430759",
+      "organization_id": "Q193582",
+      "start_date": "2018-09-12",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3455745-10f9efda-4c58-2512-b7a2-6dc4194fa5f3",
       "person_id": "Q3455745",
       "on_behalf_of_id": "Q46615193",
@@ -21095,6 +21350,40 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q587009-3d9ec812-459e-16bf-6352-98f6591edd77",
+      "person_id": "Q587009",
+      "organization_id": "Q193582",
+      "area_id": "Q12758",
+      "start_date": "1848-04-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58869106-c241aed3-4dbd-e1de-7712-0cafe90926b8",
+      "person_id": "Q58869106",
+      "organization_id": "Q193582",
+      "area_id": "Q3402045",
+      "start_date": "2018-11-26",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q602146-e4d8b607-48c9-9111-4116-e43e70d07e22",
       "person_id": "Q602146",
       "on_behalf_of_id": "Q2450519",
@@ -21282,6 +21571,22 @@
       "organization_id": "Q193582",
       "area_id": "Q3142962",
       "start_date": "2017-06-21",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:fr": "député",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q3044918",
+      "role": {
+        "lang:fr": "député",
+        "lang:en": "member of the French National Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q958953-55B20BE3-94F2-4D20-B3AF-310FDDFDD612",
+      "person_id": "Q958953",
+      "organization_id": "Q193582",
+      "start_date": "1821-01-01",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:fr": "député",

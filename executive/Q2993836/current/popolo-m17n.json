@@ -94,10 +94,28 @@
       "organization_id": "Q2993836",
       "area_id": "Q142",
       "start_date": "2017-05-15",
-      "role_superclass_code": "Q1587677",
+      "role_superclass_code": "Q15135541",
       "role_superclass": {
+        "lang:fr": "chef du gouvernement français",
+        "lang:en": "head of government of France"
+      },
+      "role_code": "Q1587677",
+      "role": {
         "lang:fr": "Premier ministre français",
         "lang:en": "Prime Minister of France"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3579995-cf606f6d-4451-efd8-0bfa-7ef6fee1023c",
+      "person_id": "Q3579995",
+      "on_behalf_of_id": "Q20012759",
+      "organization_id": "Q2993836",
+      "area_id": "Q142",
+      "start_date": "2017-05-15",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:fr": "Premier ministre",
+        "lang:en": "prime minister"
       },
       "role_code": "Q1587677",
       "role": {
@@ -110,10 +128,26 @@
       "person_id": "Q455392",
       "organization_id": "Q2993836",
       "area_id": "Q142",
-      "role_superclass_code": "Q1587677",
+      "role_superclass_code": "Q15135541",
       "role_superclass": {
+        "lang:fr": "chef du gouvernement français",
+        "lang:en": "head of government of France"
+      },
+      "role_code": "Q1587677",
+      "role": {
         "lang:fr": "Premier ministre français",
         "lang:en": "Prime Minister of France"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q455392-63AE52CE-6BA7-4394-8A76-2A02E3DD3824",
+      "person_id": "Q455392",
+      "organization_id": "Q2993836",
+      "area_id": "Q142",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:fr": "Premier ministre",
+        "lang:en": "prime minister"
       },
       "role_code": "Q1587677",
       "role": {
@@ -126,10 +160,26 @@
       "person_id": "Q542800",
       "organization_id": "Q2993836",
       "area_id": "Q142",
-      "role_superclass_code": "Q1587677",
+      "role_superclass_code": "Q15135541",
       "role_superclass": {
+        "lang:fr": "chef du gouvernement français",
+        "lang:en": "head of government of France"
+      },
+      "role_code": "Q1587677",
+      "role": {
         "lang:fr": "Premier ministre français",
         "lang:en": "Prime Minister of France"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q542800-AD29BD8C-1C28-4929-90C6-D7C7CA62B304",
+      "person_id": "Q542800",
+      "organization_id": "Q2993836",
+      "area_id": "Q142",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:fr": "Premier ministre",
+        "lang:en": "prime minister"
       },
       "role_code": "Q1587677",
       "role": {

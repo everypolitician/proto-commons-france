@@ -1,0 +1,59 @@
+[
+  {
+    "role_id": "Q14828018",
+    "role_name": {
+      "lang:fr": "sénateur",
+      "lang:en": "member of the Senate of France"
+    },
+    "generic_role_id": "Q24931583",
+    "generic_role_name": {
+      "lang:fr": "sénateur français",
+      "lang:en": "French senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q215987",
+    "organization_name": {
+      "lang:fr": "Sénat",
+      "lang:en": "Senate"
+    }
+  },
+  {
+    "role_id": "Q3044918",
+    "role_name": {
+      "lang:fr": "député",
+      "lang:en": "member of the French National Assembly"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:fr": "député",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q193582",
+    "organization_name": {
+      "lang:fr": "Assemblée nationale",
+      "lang:en": "French National Assembly"
+    }
+  },
+  {
+    "role_id": "Q51236772",
+    "role_name": {
+      "lang:fr": "conseiller de Paris",
+      "lang:en": "Councillor of Paris"
+    },
+    "generic_role_id": "Q3780304",
+    "generic_role_name": {
+      "lang:fr": "conseiller général",
+      "lang:en": "member of the general council"
+    },
+    "role_level": "Q515 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q775994",
+    "organization_name": {
+      "lang:fr": "conseil de Paris",
+      "lang:en": "council of Paris"
+    }
+  }
+]
